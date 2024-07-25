@@ -19,7 +19,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### M.Tech CSE at IIT Guwahati 
-- 🔭 Currently working on Explainability and Fairness in Machine Learning.
+- 🔭 Currently working on Argument Mining in Natural Language Processing.
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
