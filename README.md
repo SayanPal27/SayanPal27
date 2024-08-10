@@ -7,17 +7,10 @@ Welcome to my GitHub! I'm currently pursuing an M.Tech in Computer Science at II
 
 ## 🔭 Current Projects
 
-- **[Semantic Segmentation with EuroSAT](https://github.com/SayanPal27/Semantic-Segmentation-with-EuroSAT)**  
-  Leveraging deep learning techniques to perform land use classification using the EuroSAT dataset. This project involves both RGB and multi-spectral images from the Sentinel-2 satellite.
-
-- **[End-to-End Argument Mining](https://github.com/SayanPal27/End-to-End-Argument-Mining)**  
-  Exploring cross-corpora multi-task learning to improve argument mining systems. This project aims to enhance the performance of argument mining models across various datasets.
-
-- **[Scene Segmentation and Clustering](https://github.com/SayanPal27/Scene-Segmentation-and-Clustering)**  
-  A project that focuses on clustering and segmenting scenes using different machine learning techniques, demonstrating how unsupervised learning can be applied to complex datasets.
+- **[Argument Mining and Relation Classification in NLP](#)**  
+  This project focuses on extracting and structuring arguments from natural language text, identifying the relationships between these arguments, and classifying them using traditional machine learning techniques. The aim is to enhance the understanding and processing of unstructured data in various domains, making complex textual information more accessible and actionable.
 
 ---
-
 ## 💼 Professional Background
 
 - **Epic Bridges Analyst** at Deloitte (Former Role)  
@@ -48,8 +41,8 @@ Welcome to my GitHub! I'm currently pursuing an M.Tech in Computer Science at II
   *Expected Graduation: 2025*
 
 - **B.Tech in Computer Science**  
-  [Your Undergraduate Institution]  
-  *Graduated: [Year]*
+  CMR Institute of Technology Bengaluru  
+  *Graduated: 2021*
 
 ---
 
@@ -62,8 +55,7 @@ When I'm not coding, I enjoy playing the keyboard, experimenting with new melodi
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sayanpal27/)
-- **Email:** sayanpal.cse@gmail.com
-- **Portfolio:** [Check out my portfolio](https://sayanpal27.github.io/)
+- **Email:** sayanpal2707@gmail.com
 
 ---
 
