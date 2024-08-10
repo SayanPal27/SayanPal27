@@ -1,31 +1,84 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hi there, I'm Sayan 👋</b></h1>
-</p>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+# Hi there, I'm Sayan Pal 👋
 
+Welcome to my GitHub! I'm currently pursuing an M.Tech in Computer Science at IIT Guwahati, with a strong focus on **web development** and **machine learning**. My interests span from innovative web solutions to applying deep learning in areas like **land cover mapping** using satellite imagery.
 
+---
 
-<p align="center">
-<br>
-<a href="https://www.facebook.com/sayan.pal.7359/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tallurisaith77@gmail.com?subject=Hola%20th"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+## 🔭 Current Projects
 
-<br>
+- **[Semantic Segmentation with EuroSAT](https://github.com/SayanPal27/Semantic-Segmentation-with-EuroSAT)**  
+  Leveraging deep learning techniques to perform land use classification using the EuroSAT dataset. This project involves both RGB and multi-spectral images from the Sentinel-2 satellite.
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+- **[End-to-End Argument Mining](https://github.com/SayanPal27/End-to-End-Argument-Mining)**  
+  Exploring cross-corpora multi-task learning to improve argument mining systems. This project aims to enhance the performance of argument mining models across various datasets.
 
-### M.Tech CSE at IIT Guwahati 
-- 🔭 Currently working on Argument Mining in Natural Language Processing.
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- **[Scene Segmentation and Clustering](https://github.com/SayanPal27/Scene-Segmentation-and-Clustering)**  
+  A project that focuses on clustering and segmenting scenes using different machine learning techniques, demonstrating how unsupervised learning can be applied to complex datasets.
 
+---
 
+## 💼 Professional Background
+
+- **Epic Bridges Analyst** at Deloitte (Former Role)  
+  Although my role at Deloitte was focused on the healthcare industry, my passion remains in tech, particularly in web development and machine learning.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Python, JavaScript, HTML/CSS
+- **Frameworks:** Django, Flask, React.js
+- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
+- **Tools:** Git, Docker, Jupyter Notebook, Kaggle
+
+---
+
+## 🌱 I’m Currently Learning
+
+- Advanced techniques in **deep learning** and **computer vision**.
+- Expanding my expertise in **full-stack development** with modern web technologies.
+
+---
+
+## 🎓 Education
+
+- **M.Tech in Computer Science**  
+  IIT Guwahati  
+  *Expected Graduation: 2025*
+
+- **B.Tech in Computer Science**  
+  [Your Undergraduate Institution]  
+  *Graduated: [Year]*
+
+---
+
+## 🎹 Outside of Work
+
+When I'm not coding, I enjoy playing the keyboard, experimenting with new melodies, and exploring the latest trends in tech.
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sayanpal27/)
+- **Email:** sayanpal.cse@gmail.com
+- **Portfolio:** [Check out my portfolio](https://sayanpal27.github.io/)
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to new challenges and collaborations, especially in the fields of web development, machine learning, and data science. Feel free to reach out if you're interested in working together!
+
+---
+
+## 📊 GitHub Stats
+
+![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayanPal27&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayanPal27&layout=compact&theme=radical)
+
+---
+
+*Thanks for stopping by! Feel free to explore my repositories and connect with me.*
