@@ -23,6 +23,6 @@ I'm an M.Tech student at IIT Guwahati, specializing in **web development** and *
 ## 📫 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/sayanpal27/)**
-- **Email:** sayanpal.cse@gmail.com
+- **Email:** sayanpal2707@gmail.com
 
 ---
